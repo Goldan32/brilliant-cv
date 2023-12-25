@@ -1,15 +1,15 @@
 // NOTICE: Copy this file to your root folder.
 
 /* Personal Information */
-#let firstName = "John"
+#let firstName = "Dániel"
 
-#let lastName = "Doe"
+#let lastName = "Arany"
 
 #let personalInfo = (
-  github: "mintyfrankie",
-  phone: "+33 6 12 34 56 78",
-  email: "john.doe@me.org",
-  linkedin: "johndoe",
+  github: "Goldan32",
+  phone: "+36 30 290 1219",
+  email: "arany.daniel1999@gmail.com",
+  linkedin: "danielarany",
   //custom-1: (icon: "", text: "example", link: "https://example.com"),
   //gitlab: "mintyfrankie",
   //homepage: "jd.me.org",
@@ -22,7 +22,7 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Experienced Data Analyst looking for a full time job starting from now],
+  "": [Freshly graduated embedded software engineer with 3 years of part-time experience is looking for a full-time job.],
   "en": [Experienced Data Analyst looking for a full time job starting from now],
   "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
   "zh": [具有丰富经验的数据分析师，随时可入职]

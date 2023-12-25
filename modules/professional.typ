@@ -3,38 +3,40 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
-    title: [Director of Data Science],
-    society: [XYZ Corporation],
-    logo: "../src/logos/xyz_corp.png",
-    date: [2020 - Present],
-    location: [San Francisco, CA],
+    title: [Junior Software Engineer],
+    society: [Flex],
+    logo: "",
+    date: [2022 - Present],
+    location: [Budapest],
     description: list(
-      [Lead a team of data scientists and analysts to develop and implement data-driven strategies, develop predictive models and algorithms to support decision-making across the organization],
-      [Collaborate with executive leadership to identify business opportunities and drive growth, implement best practices for data governance, quality, and security],
+      [Implement features in an embedded project using yocto.],
+      [Create patches for external open-source tools.],
+      [Suggested and implemented a firmware component version handler tool in C, that can be utilized through multiple projects.]
     ),
-    tags: ("Tags Example here", "Dataiku", "Snowflake", "SparkSQL")
+    tags: ("OpenBMC", "Yocto Project", "C", "C++", "BASH", "CMake")
 )
 
 #cvEntry(
-    title: [Data Analyst],
-    society: [ABC Company],
-    logo: "../src/logos/abc_company.png",
-    date: [2017 - 2020],
-    location: [New York, NY],
+    title: [Software Developer Trainee],
+    society: [Flex],
+    logo: "",
+    date: [2021 - 2022],
+    location: [Budapest],
     description: list(
-      [Analyze large datasets using SQL and Python, collaborate with cross-functional teams to identify business insights],
-      [Create data visualizations and dashboards using Tableau, develop and maintain data pipelines using AWS],
-    )
+      [Assist the Firmware Team by writing low-level sofware features and unit tests.],
+      [Implement more complex embedded software solutions and write documentation.],
+    ),
+    tags: ("C", "Aurix", "Python", "Makefile")
 )
 
 #cvEntry(
-    title: [Data Analysis Intern],
-    society: [PQR Corporation],
-    logo: "../src/logos/pqr_corp.png",
-    date: [Summer 2017],
-    location: [Chicago, IL],
+    title: [Student Council Representative],
+    society: [Budapest University of Technology and Economics],
+    logo: "",
+    date: [2020 - 2021],
+    location: [Budapest],
     description: list(
-      [Assisted with data cleaning, processing, and analysis using Python and Excel, participated in team meetings and contributed to project planning and execution],
-      [Developed data visualizations and reports to communicate insights to stakeholders, collaborated with other interns and team members to complete projects on time and with high quality],
+      [Communicate with students via email and advising them about university policy.],
+      [Represent student interests at various meetings.],
     )
 )

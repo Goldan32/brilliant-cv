@@ -4,15 +4,20 @@
 
 #cvSkill(
   type: [Languages],
-  info: [English #hBar() French #hBar() Chinese]
+  info: [English (C1) #hBar() Hungarian (native)]
 )
 
 #cvSkill(
-  type: [Tech Stack],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL]
+  type: [Programming],
+  info: [C #hBar() C++ #hBar() Rust #hBar() Python #hBar() BASH #hBar() Robot Framework #hBar() Matlab #hBar() Verilog]
 )
 
 #cvSkill(
-  type: [Personal Interests],
-  info: [Swimming #hBar() Cooking #hBar() Reading]
+  type: [Development],
+  info: [GCC/G++ #hBar() Makefile #hBar() CMake #hBar() Visual Studio #hBar() VSCode #hBar() Linux kernel #hBar() OpenBMC #hBar() Petalinux]
+)
+
+#cvSkill(
+  type: [Other],
+  info: [Git #hBar() Linux usage #hBar() Yocto Project #hBar() KiCAD #hBar() JIRA #hBar() Confluence]
 )
