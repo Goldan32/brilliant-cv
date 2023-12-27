@@ -36,7 +36,7 @@
     date: [2020 - 2021],
     location: [Budapest],
     description: list(
-      [Communicate with students via email and advising them about university policy.],
+      [Communicate with students via email and advise them about university policy.],
       [Represent student interests at various meetings.],
     )
 )

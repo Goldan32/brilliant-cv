@@ -17,7 +17,7 @@ description: [Specialization:
 )
 
 #cvEntry(
-    title: [Bachelors of Science in Electrical Engineering],
+    title: [Bachelor of Science in Electrical Engineering],
     society: [Budapest University of Technology and Economics],
     date: [2018 - 2022],
     location: [Budapest],

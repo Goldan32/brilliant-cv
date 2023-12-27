@@ -22,15 +22,15 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Freshly graduated embedded software engineer with 3 years of part-time experience is looking for a full-time job.],
+  "": [Freshly graduated embedded software engineer with 3 years of part-time experience is looking for a full-time opportunity.],
   "en": [Experienced Data Analyst looking for a full time job starting from now],
   "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
   "zh": [具有丰富经验的数据分析师，随时可入职]
 )
 
 #let cvFooterInternational = (
-  "": "Curriculum vitae",
-  "en": "Curriculum vitae",
+  "": "Curriculum Vitae",
+  "en": "Curriculum Vitae",
   "fr": "Résumé",
   "zh": "简历"
 )
@@ -52,7 +52,7 @@
 /* Layout Setting */
 #let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
 
-#let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
+#let profilePhoto = "../src/avatar_cropped.png" // Leave blank if profil photo is not needed
 
 #let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 
