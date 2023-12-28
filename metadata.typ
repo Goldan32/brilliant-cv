@@ -23,23 +23,20 @@
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
   "": [Freshly graduated embedded software engineer with 3 years of part-time experience is looking for a full-time opportunity.],
-  "en": [Experienced Data Analyst looking for a full time job starting from now],
-  "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
-  "zh": [具有丰富经验的数据分析师，随时可入职]
+  "en": [Freshly graduated embedded software engineer with 3 years of part-time experience is looking for a full-time opportunity.],
+  "hu": [Frissen végzett beágyazott szoftvermérnök, 3 év félmunkaidős tapasztalattal keres teljes állású lehetőséget.]
 )
 
 #let cvFooterInternational = (
   "": "Curriculum Vitae",
   "en": "Curriculum Vitae",
-  "fr": "Résumé",
-  "zh": "简历"
+  "hu": "Önéletrajz"
 )
 
 #let letterFooterInternational = (
   "": "Cover Letter",
   "en": "Cover Letter",
-  "fr": "Lettre de motivation",
-  "zh": "申请信"
+  "hu": "Motivációs Levél"
 )
 
 #let nonLatinOverwriteInfo = (
@@ -54,7 +51,7 @@
 
 #let profilePhoto = "../src/avatar_cropped.png" // Leave blank if profil photo is not needed
 
-#let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
+#let varLanguage = "hu" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 
 #let varEntrySocietyFirst = false // Decide if you want to put your company in bold or your position in bold
 

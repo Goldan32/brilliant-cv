@@ -3,15 +3,16 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
-    title: [Junior Software Engineer],
+    title: [Junior Embedded Software Engineer],
     society: [Flex],
     logo: "",
     date: [2022 - Present],
     location: [Budapest],
     description: list(
-      [Implement features in an embedded project using yocto.],
-      [Create patches for external open-source tools.],
-      [Suggested and implemented a firmware component version handler tool in C, that can be utilized through multiple projects.]
+      [Implement features in an embedded project using yocto],
+      [Create patches for external open-source tools],
+      [Assist on the software side of new hardware bringups],
+      [Suggested and implemented a firmware component version handler tool in C, that can be utilized through multiple projects]
     ),
     tags: ("OpenBMC", "Yocto Project", "C", "C++", "BASH", "CMake")
 )
@@ -23,8 +24,8 @@
     date: [2021 - 2022],
     location: [Budapest],
     description: list(
-      [Assist the Firmware Team by writing low-level sofware features and unit tests.],
-      [Implement more complex embedded software solutions and write documentation.],
+      [Assist the Firmware Team by writing low-level sofware features and unit tests],
+      [Implement more complex embedded software solutions and write documentation],
     ),
     tags: ("C", "Aurix", "Python", "Makefile")
 )
@@ -36,7 +37,7 @@
     date: [2020 - 2021],
     location: [Budapest],
     description: list(
-      [Communicate with students via email and advise them about university policy.],
-      [Represent student interests at various meetings.],
+      [Communicate with students via email and advise them about university policy],
+      [Represent student interests at various meetings],
     )
 )
